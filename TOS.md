@@ -1,6 +1,6 @@
 # Terms of Service¶
 ## Usage Agreement
-By inviting the Discord Bot "CosmicSky Bot#5142" (Unique discord user ID 548333863756365835. Hereby referred to as "bot") to a Discord Server ("server"), or by 
+By inviting the Discord Bot to a Discord Server ("server"), or by 
 using its 
 features, you agree to the below listed Terms of Service ("terms") and Privacy Policy ("policy").
 
